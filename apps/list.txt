@@ -1,11 +1,12 @@
+com.apptv.tvplus.apk
 com.chophim.tv.apk
+com.dvt.smartkaraoke.apk
+com.dvtshop.store.apk
 com.esaba.downloader.apk
 com.haidaklak.iptv.apk
 com.nghenhin24h.vietplaytv.apk
 com.teamsmart.videomanager.tv.apk
-com.tv.rophimm.apk
 Get.Out.1.0.4.apk
-mh.q.truyenhinh.apk
 tungbui.mstore.apk
 vn.beecube.store.apk
 Youtube.apk
