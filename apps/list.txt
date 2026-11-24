@@ -7,5 +7,6 @@ com.haidaklak.iptv.apk
 com.nghenhin24h.vietplaytv.apk
 com.teamsmart.videomanager.tv.apk
 Get.Out.1.0.4.apk
+TBTV-v1.2.0-rebuilt.apk
 vn.beecube.store.apk
 Youtube.apk
